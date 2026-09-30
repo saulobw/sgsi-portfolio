@@ -84,13 +84,8 @@ Docker · WSL2 · Eramba (GRC/SGSI open source) · MySQL · Python 3 · API de G
 - **Metodología de riesgo documentada, no improvisada**: la matriz de apetito de riesgo (Probabilidad × Impacto) tiene criterios objetivos escritos para cada nivel, no solo etiquetas.
 - **Cada bug encontrado se documentó, no se ocultó** — incluyendo un caso de corrección masiva de esquema de base de datos (41 tablas) diagnosticado vía `information_schema`, y una migración forzada de versión de Python para resolver incompatibilidades de dependencias.
 
-## Qué sigue (roadmap real)
 
-- [ ] Piloto controlado en una pyme real, con autorización y alcance por escrito
-- [ ] Automatización con `cron` (pendiente hasta el piloto, para no automatizar contra datos de prueba)
-- [ ] Cifrado de disco completo (migración planeada a Linux/LUKS)
-- [ ] MFA en cuentas root de servicios en la nube
 
 ---
 
-*Proyecto personal, en desarrollo activo. Contacto: [tu correo o LinkedIn]*
+*Proyecto personal, en desarrollo activo. Contacto: [saulo2186@gmail.com]*
